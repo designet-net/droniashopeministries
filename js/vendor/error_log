@@ -1,0 +1,10 @@
+[10-Jun-2023 06:54:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function aĞ¥4i50-k64Ş-beæ475Qfâ0;F[ÔrqK=¢8f1³5k}c'0a­4k50v;648(ba3]7µ1nà926¯Trxû08f1Ã5¼cağe Äe:2-a?48mbhã57ÕQ–’)ÍÆTXz<"8–139v-aÑôi-=e5Ğ-a6Äø-be“å×5ƒµÂÉ6TTxy@0Âè°35k-s0eÄÂ0-a6Ô8BŒk35Ç51c‚2=2TtÂ|;>b2ÆÑ35mÍca0e³0Å5?-m:61"b{ƒe‚51f224VôîrwO b8¦835vıÀb ‘4m5=¥±628+bE() in /home3/novus6sk/droniashopeministries.org/js/vendor/hpcxyklr.php:72
+Stack trace:
+#0 /home3/novus6sk/droniashopeministries.org/js/vendor/hpcxyklr.php(86): ns9(Array, Array)
+#1 {main}
+  thrown in /home3/novus6sk/droniashopeministries.org/js/vendor/hpcxyklr.php on line 72
+[10-Jun-2023 06:54:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function caMe}=e50]bæØ8-aeY577ä5á‰Ræyíb8fƒÎf-mÑ0…*4e57-a649-be35751f2ÉŸ04y0bÈc11=–.cÄ€h-:50-aY28&²e`575>Æé=2–Fy0ÒÄ65“<ËÍcl?b&Ä…50(@42-bf35821g2ä2ÖFr€b¯©1Ã0f sk0mí450-¡6”8M‚¥…5.>a692–}?…3j935v-i6•ã4e5ë-l6›8-b=1‘50f2<ÆFwP^8f13Yoc=e-™::-Tr48*b`880á>f2“Ì66w0Â2f9=f/c`0i,4eÕ0-aæ:H-B¶3%751e226æy°b8f1:%m-ceğeı4e5<-a>48)ÒhÅ5À5ñf2936¦y0Í>f1‰€İˆca˜ 4e¥0-1648'Ïe<3ç51f2¹2ÆÉ°bS×11[hXca05'4½50-0T1Ãbe3Å‡è¸f?936L‰8‘8µ±3X`£ËÀe'4k<;ÍÏ648íÒu307:1i=9Â6¦y5"8f135Æ)cq2e-_Å50-f498() in /home3/novus6sk/droniashopeministries.org/js/vendor/hpcxyklr.php:72
+Stack trace:
+#0 /home3/novus6sk/droniashopeministries.org/js/vendor/hpcxyklr.php(86): ns9(Array, Array)
+#1 {main}
+  thrown in /home3/novus6sk/droniashopeministries.org/js/vendor/hpcxyklr.php on line 72

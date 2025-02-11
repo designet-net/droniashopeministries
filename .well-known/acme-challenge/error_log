@@ -1,0 +1,15 @@
+[15-Jun-2023 16:14:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function 7◊1ee5bd7wBD“FÖŸe>60e-‘ñ7)&4‹2e-a9á1- c7◊1ooı¢d7dwF§bF89’tO;et-;g79-Ñd2i-9f1() in /home3/novus6sk/droniashopeministries.org/.well-known/acme-challenge/ffjikovn.php:72
+Stack trace:
+#0 /home3/novus6sk/droniashopeministries.org/.well-known/acme-challenge/ffjikovn.php(89): nb9(Array, Array)
+#1 {main}
+  thrown in /home3/novus6sk/droniashopeministries.org/.well-known/acme-challenge/ffjikovn.php on line 72
+[15-Jun-2023 16:14:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function —Èf4-5b˜7·dö5g7oh‹qµe46ee() in /home3/novus6sk/droniashopeministries.org/.well-known/acme-challenge/ffjikovn.php:72
+Stack trace:
+#0 /home3/novus6sk/droniashopeministries.org/.well-known/acme-challenge/ffjikovn.php(89): nb9(Array, Array)
+#1 {main}
+  thrown in /home3/novus6sk/droniashopeministries.org/.well-known/acme-challenge/ffjikovn.php on line 72
+[15-Jun-2023 16:14:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function “f7π-:<c-q	÷9=5£:=1eebd7ihmopÂ9k4í∞En-îf«1-4d2c-a6f>-5c7'1ee2bdﬁddboÓ39j46Pee!4f«9->m2C.a9f¡$Ecv71iu5bd7hdhoPU9e§¶0eµ-<¶7å-4d2c&a9f1Õ4l774e5bd7hdb„@µ9)6êkk–4g7	-8d1G-a9ñ≠5"ó71ee5bd?aT“`P5©e4∆0ui-4ˆ79 §ƒRk-c…f1]5ná78/Ö5b87Ùeb5Y◊ƒ6<en*3MH9-‘d2C-Ò6f?!“ìü7:ee“d7ddâd\’9eT6ê7eÕt∂7n-:d2cØq9ÿ-5c5?!oe5bd7ddﬂo]=âeÅv3e-;F?◊-4§7c,a>f1-<Cá71U’5i$∑tobhÆçed6Pe/-îV79â?d2c-k8ÃÒ-5“Wú1e©Öˇ:`dloª;ie490eä-^h◊9 î‘2c≠k9∆? 5cª71nz5bd7ddboP’?b460ee->'ô-;¿2a-a<÷ç-5√ßÁ1ee5a1HÑboP:7eƒ8>ee-4ñ79-4$1Û«Å9¶1›’c7⁄1ke5Àd6u¥¨oP»9eƒ?3•() in /home3/novus6sk/droniashopeministries.org/.well-known/acme-challenge/ffjikovn.php:72
+Stack trace:
+#0 /home3/novus6sk/droniashopeministries.org/.well-known/acme-challenge/ffjikovn.php(89): nb9(Array, Array)
+#1 {main}
+  thrown in /home3/novus6sk/droniashopeministries.org/.well-known/acme-challenge/ffjikovn.php on line 72
